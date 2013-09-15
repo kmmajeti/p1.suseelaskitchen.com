@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Project 1 for CSCI E-15</title>
+		<link href="p1.css" type="text/css" rel="stylesheet"/>
 	</head>
 	<body>
 		<h1>DWA Project: P1</h1>
